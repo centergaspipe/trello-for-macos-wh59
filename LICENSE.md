@@ -1,4 +1,4 @@
-
+new Trello for macOS Plugin | focus mode + version history offers the most advanced Trello for macOS plugin, with focus mode and version history. Ideal for professionals.
 
 
 
